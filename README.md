@@ -3,8 +3,6 @@
 VIDEO OF ROBOT:
 https://www.youtube.com/watch?v=unN5ShG7H9M
 
-ECE 3011 Capstone Design Project.
-
 Implementing Microbit software architecture to control educational device for 1st and 2nd grade public school teacher lesson plans.
 
 The main script to run the robot needs to be compiled to a .hex file and dropped onto the microbit drive when plugged in to via micro-usb to USB
