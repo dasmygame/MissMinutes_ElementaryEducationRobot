@@ -26,3 +26,5 @@ To access libraries written and used:
 cd MissMinutes_ElementaryEducationRobot/source/digital
 ```
 Within here you can view the 7 segment libraries, servo libraries, and additional self written python libary functions for bridging C++.
+
+<img width="384" src="https://github.com/dasmygame/MissMinutes_ElementaryEducationRobot/IMG_3319.HEIC">
