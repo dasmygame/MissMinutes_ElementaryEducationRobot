@@ -10,7 +10,7 @@ The main script to run the robot needs to be compiled to a .hex file and dropped
 After cloning repository to local, to access main script to run robot:
 
 ```
-cd ECE3011_T08_TeamProject/source
+cd MissMinutes_ElementaryEducationRobot/source
 ```
 
 Download this file or copy this file over to a python script shell, recommended editor/compiler is the micro:bit Python Editor, linked below:
@@ -23,6 +23,6 @@ Hex file can then be flashed onto Microbit for final use.
 
 To access libraries written and used:
 ```
-cd ECE3011_T08_TeamProject/source/digital
+cd MissMinutes_ElementaryEducationRobot/source/digital
 ```
 Within here you can view the 7 segment libraries, servo libraries, and additional self written python libary functions for bridging C++.
