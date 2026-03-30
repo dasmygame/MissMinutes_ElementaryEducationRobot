@@ -1,4 +1,4 @@
-# ECE3011_T08_TeamProject
+# Robot to Help Elementary School Students Learn Analog Time
 
 VIDEO OF ROBOT:
 https://www.youtube.com/watch?v=unN5ShG7H9M
